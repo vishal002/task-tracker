@@ -33,6 +33,10 @@ After build is created then install `npm i serve -g` and run `serve -s build/ -p
 
 ### item used 
 
+- props
 - useState
+- useEffect
 - npm i react-icons
+- npm i json-server
+- npm i react-router-dom
 
