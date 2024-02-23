@@ -17,6 +17,7 @@ You may also see any lint errors in the console.
 ## App Snapsorts
 ![Home Page](https://github.com/vishal002/task-tracker/blob/master/public/home.jpg?raw=true)
 ![add Section](https://github.com/vishal002/task-tracker/blob/master/public/add.jpg?raw=true)
+![add Section](https://github.com/vishal002/task-tracker/blob/master/public/about.jpg?raw=true)
 
 ### `npm test`
 
@@ -39,4 +40,7 @@ After build is created then install `npm i serve -g` and run `serve -s build/ -p
 - npm i react-icons
 - npm i json-server
 - npm i react-router-dom
+- Router
+- Link
+- useLocation
 
