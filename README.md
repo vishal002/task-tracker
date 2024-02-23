@@ -15,7 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## App Snapsorts
-![Home Page](https://github.com/vishal002/task-tracker/blob/main/src/assets/snapsorts/home.jpg?raw=true)
+![Home Page](https://github.com/vishal002/task-tracker/blob/master/public/home.jpg?raw=true)
+![Home Page](https://github.com/vishal002/task-tracker/blob/master/public/add.jpg?raw=true)
 
 ### `npm test`
 
