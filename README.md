@@ -32,15 +32,16 @@ After build is created then install `npm i serve -g` and run `serve -s build/ -p
 
 ### `npm run eject`
 
-### item used 
+### Things to learn
 
 - props
 - useState
 - useEffect
-- npm i react-icons
-- npm i json-server
-- npm i react-router-dom
 - Router
 - Link
 - useLocation
+- npm i react-icons
+- npm i json-server
+- npm i react-router-dom
+
 
